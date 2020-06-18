@@ -6,17 +6,14 @@ import java.math.*;
 public class Account implements Annotation {
     public User user;
     public BigDecimal accBalance;
-    @AccountNo(key = -1)
+    @AccountNo(key = "-1")
     public String accountNumber;
-    public Account(User user){
-        this.user = user;
-    }
 
 
     public Account(User user, String accountNumber, BigDecimal accBalance) {
         this.user = user;
         this.accountNumber = accountNumber;
-        this.accBalance = getAccBalance();
+        this.accBalance = accBalance;
     }
 
     public BigDecimal getAccBalance() {
@@ -51,8 +48,7 @@ public class Account implements Annotation {
     @Override
     public String toString() {
         return "Account{" +
-                "user=" + user +
-                ", accountNumber='" + accountNumber + '\'' +
+                "accBalance=" + accBalance +
                 '}';
     }
 }

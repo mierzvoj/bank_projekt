@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cm6vFqUNTAg8kIqVvBO8SCJ9bU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +72,41 @@
       <workItem from="1591124464605" duration="58000" />
       <workItem from="1591124542280" duration="1263000" />
       <workItem from="1591125828880" duration="4682000" />
+      <workItem from="1591131770053" duration="458000" />
+      <workItem from="1591132644899" duration="61000" />
+      <workItem from="1591132832942" duration="107000" />
+      <workItem from="1591202977717" duration="4570000" />
+      <workItem from="1591388876572" duration="633000" />
+      <workItem from="1591558938730" duration="8000" />
+      <workItem from="1592029218962" duration="1792000" />
+      <workItem from="1592037468032" duration="17000" />
+      <workItem from="1592037502767" duration="16000" />
+      <workItem from="1592037708397" duration="12000" />
+      <workItem from="1592038145523" duration="17000" />
+      <workItem from="1592038384979" duration="32000" />
+      <workItem from="1592038478721" duration="55000" />
+      <workItem from="1592038955674" duration="47000" />
+      <workItem from="1592041527263" duration="55000" />
+      <workItem from="1592042429708" duration="20000" />
+      <workItem from="1592042559433" duration="5000" />
+      <workItem from="1592043193172" duration="12000" />
+      <workItem from="1592043255708" duration="33000" />
+      <workItem from="1592043413648" duration="9000" />
+      <workItem from="1592043489950" duration="21000" />
+      <workItem from="1592508400116" duration="31000" />
+      <workItem from="1592508572967" duration="14000" />
+      <workItem from="1592508630316" duration="16000" />
+      <workItem from="1592509515877" duration="37000" />
+      <workItem from="1592509709593" duration="15000" />
+      <workItem from="1592509902560" duration="28000" />
+      <workItem from="1592510046219" duration="78000" />
+      <workItem from="1592510999723" duration="22000" />
+      <workItem from="1592511074342" duration="33000" />
+      <workItem from="1592511340997" duration="72000" />
+      <workItem from="1592514656580" duration="17000" />
+      <workItem from="1592514934037" duration="69000" />
+      <workItem from="1592515043183" duration="23000" />
+      <workItem from="1592515091621" duration="280000" />
     </task>
     <servers />
   </component>
@@ -75,30 +114,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="163" key="#Project_Structure" timestamp="1591122967693">
+    <state x="432" y="163" key="#Project_Structure" timestamp="1592514947312">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="432" y="163" key="#Project_Structure/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591122967693" />
-    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1591127392006">
+    <state x="432" y="163" key="#Project_Structure/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1592514947312" />
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1591215749313">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591127392006" />
-    <state width="1637" height="336" key="GridCell.Tab.0.bottom" timestamp="1591130517243">
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591215749313" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1592037371763">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.0.bottom/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591130517243" />
-    <state width="1637" height="336" key="GridCell.Tab.0.center" timestamp="1591130517243">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1592037371763" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1592037371762">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.0.center/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591130517243" />
-    <state width="1637" height="336" key="GridCell.Tab.0.left" timestamp="1591130517243">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1592037371762" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1592037371762">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.0.left/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591130517243" />
-    <state width="1637" height="336" key="GridCell.Tab.0.right" timestamp="1591130517243">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1592037371762" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1592037371763">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="336" key="GridCell.Tab.0.right/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1591130517243" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1592037371763" />
     <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1591130517244">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>

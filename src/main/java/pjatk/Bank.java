@@ -1,16 +1,21 @@
 package pjatk;
 
+import java.math.*;
 import java.util.*;
 import java.util.ArrayList;
 
 
 public class Bank {
     String bankId;
-    public List<Bank> accList = new ArrayList<>();
+    User user;
+    Account account;
+    public List<Account> accList = new ArrayList<>();
 
-    public Bank(String bankId, List<Bank> accList) {
+    public Bank(String bankId, List<Account> accList) {
         this.bankId = bankId;
         this.accList = accList;
+        this.user = user;
+        this.account = account;
     }
 
     public String getBankId() {
@@ -21,11 +26,17 @@ public class Bank {
         this.bankId = bankId;
     }
 
-    public List<Bank> getAccList() {
+    public List<Account> getAccList() {
         return accList;
     }
 
-    public void setAccList(List<Bank> accList) {
+    public void setAccList(List<Account> accList) {
         this.accList = accList;
+    }
+
+    public void addAcc(User user, String accountNumber, BigDecimal accBalance){
+        Account myAcc = new Account(user, accountNumber, accBalance );
+        accList.add(myAcc);
+
     }
 }

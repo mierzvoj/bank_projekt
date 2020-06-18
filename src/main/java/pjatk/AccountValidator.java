@@ -6,11 +6,11 @@ import java.lang.annotation.*;
 import javax.validation.*;
 
 public class AccountValidator implements ConstraintValidator<AccountNo, String> {
-private String someVar;
+private String validVar;
 
     @Override
     public void initialize(AccountNo constraintAnnotation) {
-        int someVar = constraintAnnotation.key();
+        String validVar = constraintAnnotation.key();
 
     }
 

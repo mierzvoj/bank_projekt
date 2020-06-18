@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 @Constraint(validatedBy = AccountValidator.class)
 
 public @interface AccountNo {
-    public int key() default -1;
+    public String key() default "-1";
 
     String message() default "Invalid AccNO format";
 
